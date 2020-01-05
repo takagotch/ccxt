@@ -100,5 +100,3 @@ print(exmo.id, exmo.create_limit_buy_order('BTC/EUR', 1, 2500.00))
 
 kraken.create_market_buy_order('BTC/USD', 1, {'trading_argeement': 'agree'})
 ```
-
-
